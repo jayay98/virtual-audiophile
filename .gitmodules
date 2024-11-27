@@ -7,3 +7,6 @@
 [submodule "deps/matplotlib-cpp"]
 	path = deps/matplotlib-cpp
 	url = https://github.com/lava/matplotlib-cpp.git
+[submodule "deps/pffft"]
+	path = deps/pffft
+	url = https://bitbucket.org/jpommier/pffft.git
